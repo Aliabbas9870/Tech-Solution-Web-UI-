@@ -9090,7 +9090,8 @@ h6 {
   .hero-thumb.style1 .main-thumb {
     margin-bottom: 50px;
     margin-top: 0;
-    max-width: 80%;
+    height:90%;
+    max-width: 90%;
   }
 }
 .hero-thumb.style1 .shape1_1 {
